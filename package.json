@@ -63,7 +63,7 @@
     "@graphql-tools/utils": "8.0.2",
     "@hapi/hapi": "20.1.5",
     "@josephg/resolvable": "1.0.1",
-    "@sinonjs/fake-timers": "7.1.2",
+    "@sinonjs/fake-timers": "10.0.2",
     "@types/async-retry": "1.4.3",
     "@types/aws-lambda": "8.10.81",
     "@types/body-parser": "1.19.1",
